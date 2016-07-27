@@ -26,4 +26,4 @@ $ wget -O- https://sohne.com.br/sh/install_ccram.sh | sh
 ----------
 
 ####Licença
-#### [PhiloShare](https://sohne.com.br/philoshare "PhiloShare"), 2016
+#### [MIT](https://opensource.org/licenses/MIT "MIT"), SOHNE 2016
