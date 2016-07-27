@@ -20,8 +20,8 @@ $ wget -O- https://sohne.com.br/sh/install_ccram.sh | sh
 - Faça a clonagem do git
  - ```$git glone ```
 - No terminal, execute os códigos:
- - ```sudo chmod +x ccram
-   sudo cp ccram /usr/bin```
+ - ```sudo chmod +x ccram```
+ - ```sudo cp ccram /usr/bin```
 
 ----------
 
