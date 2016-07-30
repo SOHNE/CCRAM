@@ -18,7 +18,7 @@ $ wget -O- https://sohne.com.br/sh/install_ccram.sh | sh
 ```
 ####Manual por intermédio da clonagem do git
 - Faça a clonagem do git
- - ```$git clone https://github.com/SohneSoftwares/CCRAM.git```
+ - ```$git clone https://github.com/SohneInc/CCRAM.git```
 - Entre no diretório do git
  - ```$cd CCRAM```
 - Execute os códigos:
