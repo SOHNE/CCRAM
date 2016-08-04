@@ -1,6 +1,10 @@
 #!/bin/bash 
 {
-sudo -k
-echo 3 > /proc/sys/vm/drop_caches 
-echo "Senhor(a), a memoria cache da RAM foi limpa."
+if [ "$EUID" -ne 0 ]
+  then echo "Utilize o ccram com o prefixo sudo."
+  exit
+else
+  echo 3 > /proc/sys/vm/drop_caches 
+  echo "Senhor(a), a memoria cache da RAM foi limpa."
+fi
 }
