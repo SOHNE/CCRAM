@@ -1,3 +1,5 @@
+
+![SOHNE Logo](https://sohne.com.br/img/sohne-header.png "SOHNE")
 CCRAM
 ===================
 
@@ -11,8 +13,8 @@ Instalação
 -------------
 
 ####Automática por intermédio do servidor da SOHNE
-- Execute o seguinde comando no terminal(<kbd>Ctrl+Alt+T</kbd>):
- - Será requisitado a senha sudo para copiar o arquivo ccram da pasta ***/tmp*** para a ***/usr/bin***
+- Execute o seguinde comando no terminal(<kbd>Ctrl + Alt + T</kbd>):
+ - Será requisitado a senha sudo para copiar o arquivo ccram da pasta ***/tmp*** para ***/usr/bin***
 ```
 $ wget -O- https://sohne.com.br/sh/install_ccram.sh | sh
 ```
